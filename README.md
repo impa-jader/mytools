@@ -24,3 +24,6 @@ if __name__=="__main__":
 import mytools as mt
 mt.pi_real(10)
 mt.e_real(3)
+
+"""Ver um video de git:
+https://github.com/git-guides"""
